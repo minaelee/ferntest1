@@ -1,5 +1,5 @@
 instances:
-  - url: petstore-openapi.docs.buildwithfern.com
+  - url: ferntest1.docs.buildwithfern.com
 
 navigation:
   - section: Get Started
@@ -11,7 +11,7 @@ navigation:
       - page: SDKs
         path: ./docs/pages/sdks.mdx
         slug: sdks
-  - api: API Reference
+  # - api: API Reference
 
 navbar-links: 
   - type: secondary
